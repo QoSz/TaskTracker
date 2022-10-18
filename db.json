@@ -35,6 +35,12 @@
       "text": "Dinner with Friends",
       "day": "May 9th at 7:30pm",
       "reminder": true
+    },
+    {
+      "id": 7,
+      "text": "Meeting",
+      "day": "May 11th at 9:30am",
+      "reminder": false
     }
   ]
 }
